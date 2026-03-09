@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Python
 __pycache__/
 *.pyc
@@ -11,3 +12,7 @@ frontend/dist/
 # Misc
 .env
 .DS_Store
+=======
+node_modules/
+dist/
+>>>>>>> cbd8d04d9196e188ebc8d360ad806e29c994f151
