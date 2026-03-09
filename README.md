@@ -25,9 +25,9 @@ Instead of simple keyword matching, the system uses **transformer-based embeddin
 
 ### Resume Analysis Results
 
-![Analysis](analysis.png)
-
 ![Results](Results.png)
+
+![Analysis](analysis.png)
 
 ---
 
