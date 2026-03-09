@@ -28,7 +28,7 @@ Instead of simple keyword matching, the system uses **transformer-based embeddin
 
 ![Analysis](analysis.png)
 
-![Results](Results.png)
+![Results](results.png)
 
 ---
 
